@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fea2f30fe83b5d45b197f58d6b88ce7, type: 3}
+  m_Name: Team2(MAG)ColorData
+  m_EditorClassIdentifier: 
+  characterColor: {r: 0.07843137, g: 0.24006903, b: 1, a: 1}
+  bulletColor: {r: 0.07843137, g: 0.24006903, b: 1, a: 1}
+  packColor: {r: 0.07843137, g: 0.24006903, b: 1, a: 1}
+  stageColor: {r: 0.07843137, g: 0.24006903, b: 1, a: 1}
+  uIColor: {r: 0.54980415, g: 0.5910139, b: 0.9811321, a: 1}
+  allColor: {r: 0, g: 0.09324503, b: 1, a: 1}

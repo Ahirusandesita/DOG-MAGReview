@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d518347223a011c418d8d8dd055c5b4a, type: 3}
+  m_Name: NumberUIAsset
+  m_EditorClassIdentifier: 
+  Zero: {fileID: 633691527, guid: 5306793f2864d684a9eb812f52175df2, type: 3}
+  One: {fileID: -166283187, guid: 5306793f2864d684a9eb812f52175df2, type: 3}
+  Two: {fileID: 362340900, guid: 5306793f2864d684a9eb812f52175df2, type: 3}
+  Three: {fileID: 1719058717, guid: 5306793f2864d684a9eb812f52175df2, type: 3}
+  Four: {fileID: -505291161, guid: 5306793f2864d684a9eb812f52175df2, type: 3}
+  Five: {fileID: 1925882768, guid: 5306793f2864d684a9eb812f52175df2, type: 3}
+  Six: {fileID: 1131269413, guid: 5306793f2864d684a9eb812f52175df2, type: 3}
+  Seven: {fileID: 1536791201, guid: 5306793f2864d684a9eb812f52175df2, type: 3}
+  Eight: {fileID: 111542029, guid: 5306793f2864d684a9eb812f52175df2, type: 3}
+  Nine: {fileID: 1027927368, guid: 5306793f2864d684a9eb812f52175df2, type: 3}
