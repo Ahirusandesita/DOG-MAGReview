@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d5cb377bfbf943419b58819f775b274, type: 3}
+  m_Name: Style_Super
+  m_EditorClassIdentifier: 
+  characterName: Super
+  characterPrefab: {fileID: 9094490801633736307, guid: ddc8a06456ee8734188b4a05e2388e46, type: 3}
+  characterUI:
+    characterUI: {fileID: 3704690101057575980, guid: 21a2c4c6e17fee34ea622badad591ac0, type: 3}
+  paramater:
+    life: 3
+    bulletMaxCount: 3
+    bulletCooltime: 3
+    moveSpeed: 9
+    chargeTime: 0.4
+    deathPenalty: 1.5
+    bulletParamater:
+      bulletSpeed: 20
+      bulletLifeTime: 1.5
+      attackPower: 3

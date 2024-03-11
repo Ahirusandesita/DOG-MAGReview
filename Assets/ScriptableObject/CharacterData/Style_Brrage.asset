@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d5cb377bfbf943419b58819f775b274, type: 3}
+  m_Name: Style_Brrage
+  m_EditorClassIdentifier: 
+  characterName: Normal
+  characterPrefab: {fileID: 3345240327814589480, guid: 1ebcbae8b5d263d43a067b916fb405bf, type: 3}
+  characterUI:
+    characterUI: {fileID: 5561755975336565889, guid: 005291a9a08645742b0bcb72dc608870, type: 3}
+  paramater:
+    life: 3
+    bulletMaxCount: 5
+    bulletCooltime: 1.3
+    moveSpeed: 7
+    chargeTime: 0.8
+    deathPenalty: 1.5
+    bulletParamater:
+      bulletSpeed: 12
+      bulletLifeTime: 1.5
+      attackPower: 1

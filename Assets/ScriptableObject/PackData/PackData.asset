@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0c6f9a6b197286459fc4658f7b8cccc, type: 3}
+  m_Name: PackData
+  m_EditorClassIdentifier: 
+  baseMoveSpeed: 9
+  speedupScaleOnHit: 1.2
+  speedupScaleOnBulletPower: 1.1
+  timeToSpeedupOnHit: 0.5
+  speedupScaleOnReflection: 1.1
+  reflectionRequiredTimesForSpeedup: 15
+  onGoalParticles:
+  - {fileID: 7527387999123938525, guid: ac451a55b0251b24eb406fb810c7176c, type: 3}
+  - {fileID: 5605452516663612406, guid: cf5a95ed3ee5a4d4a818eda15e90c1cd, type: 3}
+  - {fileID: 8802707113352745910, guid: 8f93052010c6750498c0d78e78fd1ae7, type: 3}
+  - {fileID: 4892510190261335476, guid: 43c2c3281fef74a468eb3e8a822273b2, type: 3}

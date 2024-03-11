@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d5cb377bfbf943419b58819f775b274, type: 3}
+  m_Name: Style_Slow
+  m_EditorClassIdentifier: 
+  characterName: Slow
+  characterPrefab: {fileID: 2850554027547807891, guid: 15eaf3eee8cc14f4dbdb30657cb70ede, type: 3}
+  characterUI:
+    characterUI: {fileID: 7754735194617763243, guid: f0721f67828ca544e8b3fff7ff975abc, type: 3}
+  paramater:
+    life: 3
+    bulletMaxCount: 5
+    bulletCooltime: 1
+    moveSpeed: 7
+    chargeTime: 0.4
+    deathPenalty: 1.5
+    bulletParamater:
+      bulletSpeed: 4
+      bulletLifeTime: 4
+      attackPower: 1
